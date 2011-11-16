@@ -1,6 +1,8 @@
 = rc_pdf
 
-Description goes here.
+Probably a thousand of these out there, but this one I know will work how I need it.
+
+PDF renderer that adds pdf Mime type the Rails stack. Rendering is done by Pawner
 
 == Contributing to rc_pdf
  
@@ -14,6 +16,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2011 bweikulrich. See LICENSE.txt for
+Copyright (c) 2011 RideCharge Inc. See LICENSE.txt for
 further details.
 
